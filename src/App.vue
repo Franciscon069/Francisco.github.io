@@ -1,14 +1,19 @@
 <script setup>
-const name = 'Javier';
-const age = 21;
-const profession = 'Computer Systems Engineer';
+
+fetch('https://pokeapi.co/api/v2/pokemon')
+  .then(Response => Response.json())
+  .then(data => {
+    console.log(data.data);
+  })
+  .catch(error => {
+    console.error('Error fetching data:', error);
+  });
 
 </script>
 
 <template>
   <div>
-  <h1 class="bg-amber-50 text-center">Welcome to my portfolio, I'm {{ name }}!</h1>
-  <h2>Age: {{ age }}</h2>
-  <h2>Profession: {{ profession }}</h2>
+    <h1>Pokemon List</h1>
+    
   </div>
-</template> 
+</template>
