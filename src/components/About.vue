@@ -6,17 +6,17 @@
         Sobre mí
       </h2>
 
-      <p class="text-gray-300 mb-4">
+      <p class="secundary mb-4">
         Soy estudiante de Ingeniería en Sistemas Computacionales
         (graduación 2026) y desarrollador web Full-Stack.
       </p>
 
-      <p class="text-gray-300 mb-4">
+      <p class="secundary mb-4">
         Tengo experiencia creando sistemas de gestión, plataformas
         web dinámicas y aplicaciones con React, TypeScript y Python.
       </p>
 
-      <p class="text-gray-300">
+      <p class="secundary">
         Me enfoco en desarrollar soluciones empresariales eficientes,
         intuitivas y escalables.
       </p>

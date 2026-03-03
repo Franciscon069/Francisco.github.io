@@ -2,7 +2,7 @@
   <section id="projects" class="bg-bg text-text py-20">
     <div class="max-w-6xl mx-auto px-6">
 
-      <h2 class="text-3xl font-bold mb-10">
+      <h2 class="text-3xl white font-bold mb-10">
         Proyectos
       </h2>
 

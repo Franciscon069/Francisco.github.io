@@ -13,7 +13,7 @@
       <div class="space-y-3 text-lg">
         <p>📧 jvasillo300@gmail.com</p>
         <p>📱 449 550 2032</p>
-        <p>💻 github.com/tuusuario</p>
+        <p>💻 <a href="">github.com/Franciscon069</a></p>
       </div>
 
     </div>
